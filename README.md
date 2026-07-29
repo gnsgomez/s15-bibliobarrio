@@ -16,7 +16,7 @@ Sistema para administrar los préstamos de libros de una biblioteca barrial, per
 *   **SRS (Documento de Requisitos):** [Enlace al PDF en la carpeta /docs o al documento en Google Docs]
 *   **Prototipo en Figma:** https://www.figma.com/make/N8HmbYrqPHbH4sEqsCSZPS/BiblioBarrio-app-prototype?t=6Te7J3bCFQHzGDJ6-1 
 *   **Diagramas UML:**
-    *   Diagrama de Casos de Uso: uml/casos_de_uso_bibliobarrio.jpg 
+    *   Diagrama de Casos de Uso: https://github.com/gnsgomez/s15-bibliobarrio/blob/289371700c53a2801f736ad97da074be13cf3c64/uml/casos_de_uso_bibliobarrio.jpg
     *   Diagrama de [Clases/Secuencia]: https://github.com/gnsgomez/s15-bibliobarrio/blob/289371700c53a2801f736ad97da074be13cf3c64/uml/diagrama_clases_bibliobarrio.jpg
 
 ## Tabla de Trazabilidad
