@@ -4,7 +4,7 @@
 ## Descripción
 Sistema para administrar los préstamos de libros de una biblioteca barrial, permitiendo registrar socios, gestionar préstamos y controlar devoluciones.
 
-## Integrantes del Grupo
+## Integrantes del Grupo # 1
 *   González Suárez Chrystel Karolina
 *   Alvarado Domínguez Betzabeth Estefanía
 *   Ibarra Herrera Yomaira Evelin
@@ -14,7 +14,7 @@ Sistema para administrar los préstamos de libros de una biblioteca barrial, per
 
 ## Artefactos del Proyecto
 *   **SRS (Documento de Requisitos):** [Enlace al PDF en la carpeta /docs o al documento en Google Docs]
-*   **Prototipo en Figma:** [Tu enlace de Figma: https://www.figma.com/make/N8HmbYrqPHbH4sEqsCSZPS/BiblioBarrio-app-prototype?t=6Te7J3bCFQHzGDJ6-1]
+*   **Prototipo en Figma:** https://www.figma.com/make/N8HmbYrqPHbH4sEqsCSZPS/BiblioBarrio-app-prototype?t=6Te7J3bCFQHzGDJ6-1 
 *   **Diagramas UML:**
     *   Diagrama de Casos de Uso: ![Casos de Uso](./uml/casos_de_uso_bibliobarrio.png)
     *   Diagrama de [Clases/Secuencia]: ![Diagrama](./uml/[nombre_de_tu_diagrama].png)
